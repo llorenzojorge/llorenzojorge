@@ -4,7 +4,7 @@
 
 Desenvolvedor de software com foco em backend, desenvolvimento de aplicações web e construção de APIs REST. Trabalho principalmente com TypeScript, Node.js e Next.js, desenvolvendo soluções que integram regras de negócio, persistência de dados, autenticação e interfaces web.
 
-[Versão em português](./README.en.md)
+[English version](./README.en.md)
 
 ## Tecnologias e ferramentas
 
@@ -33,14 +33,6 @@ API REST desenvolvida para o gerenciamento de recursos de um restaurante, inclui
 
 ## Contato
 
-<div>
-  <a href="https://www.linkedin.com/in/llorenzojjorge/">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lorenzojorge932@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/llorenzojjorge/">
-    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llorenzojjorge/)
+[![EMAIL](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzojorge932@gmail.com)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llorenzojjorge/)

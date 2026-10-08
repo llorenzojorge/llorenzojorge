@@ -32,14 +32,6 @@ REST API for managing restaurant resources, including tables, sessions, products
 
 ## Contact
 
-<div>
-  <a href="https://www.linkedin.com/in/llorenzojjorge/">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lorenzojorge932@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/llorenzojjorge/">
-    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llorenzojjorge/)
+[![MAIL](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzojorge932@gmail.com)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llorenzojjorge/)
